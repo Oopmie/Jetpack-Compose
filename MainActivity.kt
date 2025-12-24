@@ -203,5 +203,5 @@ fun MyProgram2(){
 @Preview(showBackground = true)
 @Composable
 fun MyPreview() {
-    MyProgram1()
+    MyProgram2()
 }
